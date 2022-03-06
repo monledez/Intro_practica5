@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Se usan durante todo el año!!!
+
+>>>>>>> 5834cd2e65f07141f4f267d1f8ba8a7ee0576eda
 Las sudaderas son mejores cuando tienen bolsas al frente.
 Puedes ver este cambio que realizo en github?
